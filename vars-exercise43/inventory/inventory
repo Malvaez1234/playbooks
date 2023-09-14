@@ -1,0 +1,6 @@
+[control]
+localhost ansible_connection=local
+
+[devservers]
+vm-12-node1-ansible.example.com
+vm-12-node2-ansible.example.com
