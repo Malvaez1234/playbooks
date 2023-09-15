@@ -1,0 +1,3 @@
+[webservers]
+vm-12-node1-ansible.example.com
+vm-12-node2-ansible.example.com
