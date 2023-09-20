@@ -1,0 +1,6 @@
+[webservers]
+vm-12-node1-ansible.example.com
+vm-12-node2-ansible.example.com
+
+[workstations]
+vm-12-control-ansible.example.com
